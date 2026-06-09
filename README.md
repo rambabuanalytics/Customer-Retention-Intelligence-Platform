@@ -12,23 +12,23 @@ This project demonstrates how organizations can use data-driven insights to pred
 
 ## 🎯 Project Objectives
 
-- Identify high-risk customers.
-- Analyze churn probability across customer segments.
-- Improve customer retention strategies.
-- Evaluate customer health and loyalty.
-- Prioritize recovery opportunities.
-- Support executive-level decision making.
+* Identify high-risk customers.
+* Analyze churn probability across customer segments.
+* Improve customer retention strategies.
+* Evaluate customer health and loyalty.
+* Prioritize recovery opportunities.
+* Support executive-level decision making.
 
 ---
 
 ## 🛠 Tools & Technologies Used
 
-- Power BI
-- DAX
-- Power Query
-- Data Modeling
-- Business Intelligence
-- Data Visualization
+* Power BI
+* DAX
+* Power Query
+* Data Modeling
+* Business Intelligence
+* Data Visualization
 
 ---
 
@@ -36,77 +36,92 @@ This project demonstrates how organizations can use data-driven insights to pred
 
 ### 1️⃣ Executive Command Center
 
-Features:
+**Features**
 
-- Customer Segmentation Analysis
-- Customer Value Distribution
-- Average Monthly Charges Analysis
-- Customer Stability Monitoring
-- Customer Tenure Intelligence
-- Segment Value Analysis
-- Executive Customer Insights
-
----
-
-### 2️⃣ Decision Intelligence Center
-
-Features:
-
-- Recovery Opportunity Analysis
-- Retention Readiness Monitoring
-- Outreach Impact Assessment
-- Conversion Campaign Potential
-- Retention Priority Matrix
-- Executive Action Planning
-- Customer Action Queue Intelligence
+* Customer Segmentation Analysis
+* Customer Value Distribution
+* Average Monthly Charges Analysis
+* Customer Stability Monitoring
+* Customer Tenure Intelligence
+* Segment Value Analysis
+* Executive Customer Insights
 
 ---
 
-### 3️⃣ Customer Risk Intelligence Platform
+### 2️⃣ Customer Intelligence Hub
 
-Features:
+**Features**
 
-- Churn Risk Analysis
-- Revenue At Risk Monitoring
-- Contract Risk Assessment
-- Customer Risk Distribution
-- Internet Service Risk Analysis
-- Customer Health Monitoring
-- Retention Recommendation Engine
+* Customer Segment Distribution
+* Customer Value Analysis
+* Monthly Charges Intelligence
+* Customer Tenure Monitoring
+* Segment Performance Insights
+* Customer Stability Tracking
+* Executive Customer Recommendations
+
+---
+
+### 3️⃣ Decision Intelligence Center
+
+**Features**
+
+* Recovery Opportunity Analysis
+* Retention Readiness Monitoring
+* Outreach Impact Assessment
+* Conversion Campaign Potential
+* Retention Priority Matrix
+* Executive Action Planning
+* Customer Action Queue Intelligence
+
+---
+
+### 4️⃣ Customer Risk Intelligence Platform
+
+**Features**
+
+* Churn Risk Analysis
+* Revenue At Risk Monitoring
+* Contract Risk Assessment
+* Customer Risk Distribution
+* Internet Service Risk Analysis
+* Customer Health Monitoring
+* Retention Recommendation Engine
 
 ---
 
 ## 📈 Key Insights
 
-- High-risk customers contribute significantly to revenue exposure.
-- Contract type strongly influences churn probability.
-- Customer health scores help identify retention opportunities.
-- Recovery potential exceeds $900K across at-risk segments.
-- Strategic outreach campaigns improve customer retention outcomes.
-- Customer intelligence enables proactive business decisions.
+* High-risk customers contribute significantly to revenue exposure.
+* Contract type strongly influences churn probability.
+* Customer health scores help identify retention opportunities.
+* Recovery potential exceeds $900K across at-risk segments.
+* Strategic outreach campaigns improve customer retention outcomes.
+* Customer intelligence enables proactive business decisions.
 
 ---
 
 ## 🚀 Skills Demonstrated
 
-- Power BI Dashboard Development
-- Churn Analytics
-- Customer Segmentation
-- Customer Intelligence
-- Risk Analytics
-- KPI Design
-- Executive Reporting
-- DAX Calculations
-- Data Storytelling
-- Business Intelligence
+* Power BI Dashboard Development
+* Customer Analytics
+* Churn Analytics
+* Customer Segmentation
+* Risk Analytics
+* KPI Design
+* Executive Reporting
+* DAX Calculations
+* Data Storytelling
+* Business Intelligence
 
 ---
 
 ## 📂 Project Files
 
-- Executive Command Center.png
-- Customer Intelligence Hub(1).png
-- Decision Intelligence Center.png
+* Executive Command Center.png
+* Customer-Intelligence-Hub.png
+* Decision Intelligence Center.png
+* Customer Risk Intelligence Platform.png
 
 ---
 
@@ -120,7 +135,7 @@ Features:
 
 ### Customer Intelligence Hub
 
-![Customer Intelligence Hub](Customer%20Intelligence%20Hub(1).png)
+![Customer Intelligence Hub](Customer-Intelligence-Hub.png)
 
 ---
 
@@ -130,40 +145,46 @@ Features:
 
 ---
 
+### Customer Risk Intelligence Platform
+
+![Customer Risk Intelligence Platform](Customer%20Risk%20Intelligence%20Platform.png)
+
+---
+
 ## 💡 Business Value
 
 This solution helps organizations:
 
-- Reduce customer churn.
-- Improve retention effectiveness.
-- Identify high-value customers.
-- Monitor customer health scores.
-- Optimize outreach campaigns.
-- Increase customer lifetime value.
-- Support data-driven strategic decisions.
+* Reduce customer churn.
+* Improve retention effectiveness.
+* Identify high-value customers.
+* Monitor customer health scores.
+* Optimize outreach campaigns.
+* Increase customer lifetime value.
+* Support data-driven strategic decisions.
 
 ---
 
 ## 🏆 Project Highlights
 
-- Enterprise-Style Dashboard Design
-- Multi-Page Interactive Reporting
-- Customer Intelligence Framework
-- Churn Prediction Analytics
-- Retention Decision Engine
-- Executive-Level KPI Monitoring
-- Advanced Data Visualization
+* Enterprise-Style Dashboard Design
+* Multi-Page Interactive Reporting
+* Customer Intelligence Framework
+* Churn Prediction Analytics
+* Retention Decision Engine
+* Executive-Level KPI Monitoring
+* Advanced Data Visualization
 
 ---
 
 ## 📊 Business Questions Answered
 
-- Which customers are most likely to churn?
-- How much revenue is currently at risk?
-- Which retention actions deliver the highest impact?
-- Which customer segments create the most value?
-- How should retention efforts be prioritized?
-- Which contract types contribute most to churn?
+* Which customers are most likely to churn?
+* How much revenue is currently at risk?
+* Which retention actions deliver the highest impact?
+* Which customer segments create the most value?
+* How should retention efforts be prioritized?
+* Which contract types contribute most to churn?
 
 ---
 
@@ -175,13 +196,13 @@ Aspiring Data Analyst
 
 **Skills**
 
-- Power BI
-- SQL
-- Python
-- Excel
-- Data Analytics
-- Business Intelligence
-- Data Visualization
+* Power BI
+* SQL
+* Python
+* Excel
+* Data Analytics
+* Business Intelligence
+* Data Visualization
 
 ---
 
